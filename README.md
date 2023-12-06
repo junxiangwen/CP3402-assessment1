@@ -19,19 +19,19 @@ Provide players with the most comprehensive game for more people, so that player
 
 ### Learning Activities & Resources
  Learn how to make a joomla website
- * [Learning video for Joomla](https://youtu.be/h5VZwTLdgdM?si=7qWlQJ50baIxo9kv)
+ * (https://youtu.be/h5VZwTLdgdM?si=7qWlQJ50baIxo9kv)
    
  Learn how to make a wordpress website
- * [Learning video for wordpress](https://www.youtube.com/watch?v=UT3No6nswz8&t=82s)
+ * (https://www.youtube.com/watch?v=UT3No6nswz8&t=82s)
 
  add plugin Smart Silder in Joomla for search bar
- * [Smart Silder](https://www.youtube.com/watch?v=UT3No6nswz8&t=82s)
+ * (https://www.youtube.com/watch?v=UT3No6nswz8&t=82s)
 
  add plugin Phcoa Gallery in Joomla for photo
- * [Phcoa Gallery](https://extensions.joomla.org/extension/phoca-gallery/)
+ * (https://extensions.joomla.org/extension/phoca-gallery/)
 
  add plugin WPForms Lite in Wordpress for form
- * [WPForms Lite](https://wordpress.org/plugins/contact-forms-builder/)
+ * (https://wordpress.org/plugins/contact-forms-builder/)
    
    
    
