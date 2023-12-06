@@ -25,7 +25,7 @@ Provide players with the most comprehensive game for more people, so that player
  * (https://www.youtube.com/watch?v=UT3No6nswz8&t=82s)
 
  add plugin Smart Silder in Joomla for search bar
- * (https://www.youtube.com/watch?v=UT3No6nswz8&t=82s)
+ * (https://smartslider3.com/blog/getting-ready-for-joomla-4/)
 
  add plugin Phcoa Gallery in Joomla for photo
  * (https://extensions.joomla.org/extension/phoca-gallery/)
